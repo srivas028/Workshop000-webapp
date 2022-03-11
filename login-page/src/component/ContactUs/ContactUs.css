@@ -1,0 +1,14 @@
+.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 5%;
+    width: 350px;
+}
+
+.input {
+    width: 90%;
+}
